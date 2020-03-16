@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Hello World | Jervis的blog</title>
-<link rel="shortcut icon" href="https://hexga.github.io/Jervis.github.io//favicon.ico?v=1584360453060">
+<link rel="shortcut icon" href="https://hexga.github.io/Jervis.github.io//favicon.ico?v=1584360561117">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://hexga.github.io/Jervis.github.io//styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="Hello World | Jervis的blog - Atom Feed" href="https://hexga.github.io/Jervis.github.io//atom.xml">
@@ -23,7 +23,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://hexga.github.io/Jervis.github.io/">
-  <img class="avatar" src="https://hexga.github.io/Jervis.github.io//images/avatar.png?v=1584360453060" alt="">
+  <img class="avatar" src="https://hexga.github.io/Jervis.github.io//images/avatar.png?v=1584360561117" alt="">
   </a>
   <h1 class="site-title">
     Jervis的blog
@@ -98,6 +98,32 @@
 
         
 
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '24485cadd9c2ef2b51c2',
+    clientSecret: 'cc77084d90d7f2713dded32c5a098e07bd0c6ce5',
+    repo: 'comments',
+    owner: 'hexGa',
+    admin: ['hexGa'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
 
         <div class="site-footer">
