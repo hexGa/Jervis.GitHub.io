@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hexga.github.io/Jervis.github.io/</id>
     <title>Jervis的blog</title>
-    <updated>2020-03-16T11:49:36.208Z</updated>
+    <updated>2020-03-16T12:07:38.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hexga.github.io/Jervis.github.io/"/>
     <link rel="self" href="https://hexga.github.io/Jervis.github.io/atom.xml"/>
     <logo>https://hexga.github.io/Jervis.github.io/images/avatar.png</logo>
     <icon>https://hexga.github.io/Jervis.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Jervis的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://hexga.github.io/Jervis.github.io/Q9wjyYmQ7/</id>
+        <link href="https://hexga.github.io/Jervis.github.io/Q9wjyYmQ7/">
+        </link>
+        <updated>2020-03-16T11:52:55.000Z</updated>
+        <content type="html"><![CDATA[<p>在今年年初，因为某些吃野味的人被迫宅在家。开学的时间推了又推，无意间在网上看到了搭建个人博客的教程，无奈的我莫得钱也莫得时间，只好用GitHub page和Gridea搭建了这个静态博客（<br>
+<img src="https://hexga.github.io/Jervis.github.io//post-images/1584360223395.jpg" alt="" loading="lazy"><br>
+本人酷安id为HMSJervis，是一位职高在读的高三生（文笔不好），喜欢邦邦偶像大师，最近在玩少前和碧蓝。会在blog上发一些日常生活和一些体验评测。</p>
+]]></content>
+    </entry>
 </feed>
