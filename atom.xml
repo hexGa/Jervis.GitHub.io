@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hexga.github.io/Jervis.github.io/</id>
     <title>Jervis的blog</title>
-    <updated>2020-03-16T12:45:39.794Z</updated>
+    <updated>2020-03-16T12:45:59.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hexga.github.io/Jervis.github.io/"/>
     <link rel="self" href="https://hexga.github.io/Jervis.github.io/atom.xml"/>
@@ -11,8 +11,8 @@
     <rights>All rights reserved 2020, Jervis的blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://hexga.github.io/Jervis.github.io/Q9wjyYmQ7/</id>
-        <link href="https://hexga.github.io/Jervis.github.io/Q9wjyYmQ7/">
+        <id>https://hexga.github.io/Jervis.github.io/post/Q9wjyYmQ7/</id>
+        <link href="https://hexga.github.io/Jervis.github.io/post/Q9wjyYmQ7/">
         </link>
         <updated>2020-03-16T11:52:55.000Z</updated>
         <content type="html"><![CDATA[<p>在今年年初，因为某些吃野味的人被迫宅在家。开学的时间推了又推，无意间在网上看到了搭建个人博客的教程，无奈的我莫得钱也莫得时间，只好用GitHub page和Gridea搭建了这个静态博客（<br>
